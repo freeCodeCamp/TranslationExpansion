@@ -1,5 +1,5 @@
 # Translation Expansion
-This repository is for coordinating the translation efforts of Free Code Camp.
+This repository is for coordinating the translation efforts of freeCodeCamp.
 
 ## Contribution Guidelines
 #### Are you looking forward to help in the translation effort? Please follow the detailed Guidelines, available the link below, on our forum:
