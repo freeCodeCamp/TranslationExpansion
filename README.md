@@ -1,3 +1,7 @@
+
+# CURRENTLY TRANSLATION EFFORTS ARE ON HOLD
+
+
 # Translation Expansion
 This repository is for coordinating the translation efforts of freeCodeCamp.
 
